@@ -1,4 +1,4 @@
-var animal = 'cat'
+var animal = 'cat'; //global scope
 function myAnimal() {
   var animal = 'dog';
 
